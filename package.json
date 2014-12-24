@@ -1,0 +1,30 @@
+{
+  "name": "fis-parser-jsx-react",
+  "version": "0.0.1",
+  "description": "A parser plugin for fis to complie react code to js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cheft/fis-parser-jsx-react.git"
+  },
+  "keywords": [
+    "fis",
+    "jsx",
+    "react",
+    "plugin",
+    "parser"
+  ],
+  "author": "react <cn.cheft@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cheft/fis-parser-jsx-react/issues"
+  },
+  "homepage": "https://github.com/cheft/fis-parser-jsx-react",
+  "dependencies": {
+    "react-tools": "0.12.2"
+  },
+  "devDependencies": {}
+}
